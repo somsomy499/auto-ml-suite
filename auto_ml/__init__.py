@@ -1,0 +1,1 @@
+from .automl import AutoML\n__version__ = "1.0.0"\n
